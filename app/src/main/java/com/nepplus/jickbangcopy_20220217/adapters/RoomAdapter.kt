@@ -34,8 +34,6 @@ class RoomAdapter(
         txtPrice.text = data.getFormattedPrice()
 
 
-
-
         return row
     }
 
